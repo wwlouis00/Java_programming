@@ -4,6 +4,8 @@
 
 ## Java SE的組成
 - JavaSE其發展平台可以分為JVM JRE JDK Java語言四個部分
+- Jre Java運行環境
+- Jvm Java虛擬機
 
 # 特性
 1. 容易學習
